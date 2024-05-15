@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TheFooToken</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to TheFooToken</h1>
+    <p>Your gateway to the future of finance!</p>
+</header>
+
+<div class="container">
+    <h2>About TheFooToken</h2>
+    <p>TheFooToken is a cutting-edge cryptocurrency that aims to revolutionize the financial industry.</p>
+    <p>With advanced blockchain technology and a dedicated team, we're here to provide secure, fast, and decentralized transactions.</p>
+    <h2>Why Choose TheFooToken?</h2>
+    <p>- Secure and decentralized</p>
+    <p>- Fast and low-cost transactions</p>
+    <p>- Dedicated team with a vision</p>
+    <p>- Community-driven development</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 TheFooToken. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

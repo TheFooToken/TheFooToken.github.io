@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TheFooToken</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">TheFooToken</div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#tokenomics">Tokenomics</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Welcome to TheFooToken</h1>
+            <p>A revolutionary cryptocurrency for the modern world.</p>
+            <a href="#about" class="btn">Learn More</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About TheFooToken</h2>
+            <p>TheFooToken is a decentralized cryptocurrency built on cutting-edge blockchain technology. Our mission is to provide a secure, fast, and efficient means of transactions for users worldwide.</p>
+            <p>With a focus on community-driven initiatives and sustainable growth, TheFooToken aims to be a leading player in the cryptocurrency space.</p>
+        </div>
+    </section>
+
+    <section id="tokenomics">
+        <div class="container">
+            <h2>Tokenomics</h2>
+            <p>Token Symbol: FOO</p>
+            <p>Total Supply: 1,000,000,000</p>
+            <p>Distribution: 50% to initial investors, 25% for ecosystem development, 15% for team and advisors, and 10% for community initiatives.</p>
+        </div>
+    </section>
+
+    <section id="roadmap">
+        <div class="container">
+            <h2>Roadmap</h2>
+            <p>Our roadmap outlines our key milestones and goals for the future:</p>
+            <ul>
+                <li>Q3 2024: Launch of TheFooToken ICO</li>
+                <li>Q4 2024: Listing on major cryptocurrency exchanges</li>
+                <li>2025: Expansion of ecosystem and partnerships</li>
+                <li>2026: Integration of advanced features and technologies</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="team">
+        <div class="container">
+            <h2>Our Team</h2>
+            <p>We are a team of experienced professionals passionate about blockchain technology and its potential to revolutionize the world. Meet some of our key team members:</p>
+            <!-- Add team member profiles here -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or inquiries, feel free to reach out to us:</p>
+            <form action="submit.php" method="post">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 TheFooToken. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
